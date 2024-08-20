@@ -1,0 +1,22 @@
+# CA3
+communication
+In this project, the aim is to examine some parts of statistics and probability under the title of Rayleigh distribution and its characteristics, then get familiar with the random process and observe a process and recognize its type and characteristics, and finally get to know relatively little about digital telecommunications and how to receive and publish a The message in this way and its relation to analog communication will be analyzed separately.
+![Alt text](image.png)
+![Alt text](image-1.png)
+![Alt text](image-2.png)
+![Alt text](image-3.png)
+![Alt text](image-4.png)
+![Alt text](image-5.png)
+![Alt text](image-6.png)
+![Alt text](image-7.png)
+![Alt text](image-8.png)
+![Alt text](image-9.png)
+![Alt text](image-10.png)
+![Alt text](image-11.png)
+![Alt text](image-12.png)
+![Alt text](image-13.png)
+![Alt text](image-14.png)
+![Alt text](image-15.png)
+![Alt text](image-16.png)
+![Alt text](image-17.png)
+![Alt text](image-18.png)
